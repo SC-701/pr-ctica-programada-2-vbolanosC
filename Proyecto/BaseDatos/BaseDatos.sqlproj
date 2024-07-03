@@ -60,9 +60,6 @@
     <Folder Include="dbo\Tables\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\PokemonxEquipos.sql" />
-    <Build Include="dbo\Tables\Pokemon.sql" />
-    <Build Include="dbo\Tables\Equipos.sql" />
-    <Build Include="dbo\Tables\Entrenadores.sql" />
+    <Build Include="dbo\Tables\Tarea.sql" />
   </ItemGroup>
 </Project>
